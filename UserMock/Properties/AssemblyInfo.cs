@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UserMock")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A Small Utility for testing web applications with different/multiple users.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Kevin Hicks")]
 [assembly: AssemblyProduct("UserMock")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
